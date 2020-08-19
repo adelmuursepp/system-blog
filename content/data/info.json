@@ -1,10 +1,10 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>Too often people mistake having motivation for achieving something and struggle to translate this dream into an actionable plan. This blog is about the ultimate elegance of firstly thinking in terms of a system that includes all necessary actions for any desired goal in your life. </p>",
+  "cta": "<p>Write down every goal, every action needed for it and start the systematic thinking now.</p>",
   "contact": {
-    "email": "info@forestry.io",
+    "email": "",
     "twitter_handle": "forestryio",
-    "github_handle": "forestryio"
+    "github_handle": "adelmuursepp"
   },
   "background_color": "#B1BCBC"
 }
