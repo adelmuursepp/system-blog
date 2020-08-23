@@ -1,42 +1,58 @@
 ---
 date: 2019-08-08T22:42:09.000+00:00
-title: Sunflower Sutra
-author: Allen Ginsberg
-hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+title: The system of looking good for work
+author: Adel Müürsepp
+hero_image: "/content/images/evie-s-vz3iqy0loaa-unsplash.jpg"
 
 ---
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
+I personally think the fact that women have to spend so much time caring for appearance, compared to men, is awfully unfair. This waste of time is also of concern to quite a few feminists who protest against such unfair expectations. However, I have developed a different view on this topic. 
 
-Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
+We all know appearance plays a role in advancing a woman's career - [https://www.forbes.com/2009/12/05/appearance-work-pay-forbes-woman-leadership-body-weight.html#79696d0d54d2](https://www.forbes.com/2009/12/05/appearance-work-pay-forbes-woman-leadership-body-weight.html#79696d0d54d2 "Forbes article"). And I certainly am not willing to earn 9% less just because I look unhealthy or don't take care of my hygiene. There is nothing I can change about the stereotypes the employers and my colleagues have, the only way I can be truly empowered is unfortunately by also taking care of my physical look. Keeping in mind I want to make it as efficient as possible so I can mostly focus on my skills, how do I do it?
 
-![](/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
+### What really **is** good appearance?
 
-The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
+There are quite a few ways of looking good, so here's my opinion after researching this topic.
 
-Look at the Sunflower, he said, there was a dead gray shadow against the sky, big as a man, sitting dry on top of a pile of ancient sawdust–
+**Good:**
 
-\--I rushed up enchanted–it was my first sunflower, memories of Blake–my visions–Harlem
+Healthy – Keeping a healthy weight, good dental hygiene, healthy hair and more signals you are on top of things and your life is in order. 
 
-# “the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye”
+Youthful  – Surprisingly, this played quite a big role in women's salary (Cornell University study).
 
-and Hells of the Eastern rivers, bridges clanking Joes greasy Sandwiches, dead baby carriages, black treadless tires forgotten and unretreaded, the poem of the riverbank, condoms & pots, steel knives, nothing stainless, only the dank muck and the razor-sharp artifacts passing into the past–
+Professional – Conforming to the business etiquette makes a person look reliable.
 
-and the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye–
+Paying attention to details – No holes or stains or old shoes, understandably...
 
-corolla of bleary spikes pushed down and broken like a battered crown, seeds fallen out of its face, soon-to-be-toothless mouth of sunny air, sunrays obliterated on its hairy head like a dried wire spiderweb,
+**Bad**
 
-leaves stuck out like arms out of the stem, gestures from the sawdust root, broke pieces of plaster fallen out of the black twigs, a dead fly in its ear,
+Too provocative – Although it doesn't matter on workplaces with lower wages, climbing the ladder, it proves to be a real hinder. Good look without professional style will make one look incompetent.
 
-Unholy battered old thing you were, my sunflower O my soul, I loved you then!
+Neon colours – Why would anyone wear childish colours or elaborate patterns?
 
-![](/content/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg)
+Cheap clothes or jewellery – Better size down your wardrobe than opt for street fashion.
 
-The grime was no man’s grime but death and human locomotives,
+Overaccessorised – Better to have some effective items than to showcase all you got.
 
-all that dress of dust, that veil of darkened railroad skin, that smog of cheek, that eyelid of black mis’ry, that sooty hand or phallus or protuberance of artificial worse-than-dirt–industrial–modern–all that civilization spotting your crazy golden crown–
+So if I oversimplify – **look healthy, reliable and as if every item is very well thought through.** 
 
-and those blear thoughts of death and dusty loveless eyes and ends and withered roots below, in the home-pile of sand and sawdust, rubber dollar bills, skin of machinery, the guts and innards of the weeping coughing car, the empty lonely tincans with their rusty tongues alack, what more could I name, the smoked ashes of some cock cigar, the cunts of wheelbarrows and the milky breasts of cars, wornout asses out of chairs & sphincters of dynamos–all these
+### How will I look healthy?
 
-entangled in your mummied roots–and you standing before me in the sunset, all your glory in your form!
+As habits are such a big part of health, here I can make great use of any system. 
 
-A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+Here are the habits I marked down with desired frequencies:
+
+1. Some workout 5 times a week
+2. Three healthy meals a day
+3. 9 hours of sleep
+4. Wash hair and get a cut if needed, 2 times a week
+5. All the other obvious hygiene procedures like showering, shaving and brushing teets, ...
+
+### Next, how do I always look put together?
+
+Simply, how can I ensure that it is impossible to notice any problem in my appearance like clothes that don't fit, ugly nail polish or so on? What if instead of creating this self-consuming paranoic thinking, I could create a system with checkpoints to ensure that over some period each important part is checked.
+
+So I thought, well, what things always need to be in order and what would be the frequency for them? I'm not including here how to shop for quality clothes or have good makeup (the internet is full of beauty bloggers).
+
+![](/content/images/0b9972fd-fc32-4200-95e3-04bb49459860.png)
+
+So I ordered gel nails equipment because I know that it lasts for a week and created a schedule based on these notes. 
