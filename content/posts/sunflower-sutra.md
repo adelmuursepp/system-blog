@@ -31,7 +31,7 @@ Neon colours – Why would anyone wear childish colours or elaborate patterns?
 
 Cheap clothes or jewellery – Better size down your wardrobe than opt for street fashion.
 
-Overaccessorised – Better to have some effective items than to showcase all you got.
+Overaccessorised – Better to have some effective items than to showcase all you've got.
 
 So if I oversimplify – **look healthy, reliable and as if every item is very well thought through.** 
 
