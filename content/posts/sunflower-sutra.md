@@ -5,9 +5,9 @@ author: Adel Müürsepp
 hero_image: "/content/images/evie-s-vz3iqy0loaa-unsplash.jpg"
 
 ---
-I personally think the fact that women have to spend so much time caring for appearance, compared to men, is awfully unfair. This waste of time is also of concern to quite a few feminists who protest against such unfair expectations. However, I have developed a different view on this topic. 
+I personally think the fact that women have to spend so much time caring for appearance, compared to men, is awfully unfair. This waste of time is also of concern to quite a few feminists who protest against such unfair expectations. However, I have developed a different view on this topic.
 
-We all know appearance plays a role in advancing a woman's career - [https://www.forbes.com/2009/12/05/appearance-work-pay-forbes-woman-leadership-body-weight.html#79696d0d54d2](https://www.forbes.com/2009/12/05/appearance-work-pay-forbes-woman-leadership-body-weight.html#79696d0d54d2 "Forbes article"). And I certainly am not willing to earn 9% less just because I look unhealthy or don't take care of my hygiene. There is nothing I can change about the stereotypes the employers and my colleagues have, the only way I can be truly empowered is unfortunately by also taking care of my physical look. Keeping in mind I want to make it as efficient as possible so I can mostly focus on my skills, how do I do it?
+We all know appearance plays a role in advancing a woman's career - [Forbes article](https://www.forbes.com/2009/12/05/appearance-work-pay-forbes-woman-leadership-body-weight.html#79696d0d54d2). And I certainly am not willing to earn 9% less just because I look unhealthy or don't take care of my hygiene. There is nothing I can change about the stereotypes the employers and my colleagues have, the only way I can be truly empowered is unfortunately by also taking care of my physical look. Keeping in mind I want to make it as efficient as possible so I can mostly focus on my skills, how do I do it?
 
 ### What really **is** good appearance?
 
@@ -15,7 +15,7 @@ There are quite a few ways of looking good, so here's my opinion after researchi
 
 **Good:**
 
-Healthy – Keeping a healthy weight, good dental hygiene, healthy hair and more signals you are on top of things and your life is in order. 
+Healthy – Keeping a healthy weight, good dental hygiene, healthy hair and more signals you are on top of things and your life is in order.
 
 Youthful  – Surprisingly, this played quite a big role in women's salary (Cornell University study).
 
@@ -33,11 +33,11 @@ Cheap clothes or jewellery – Better size down your wardrobe than opt for stree
 
 Overaccessorised – Better to have some effective items than to showcase all you've got.
 
-So if I oversimplify – **look healthy, reliable and as if every item is very well thought through.** 
+So if I oversimplify – **look healthy, reliable and as if every item is very well thought through.**
 
 ### How will I look healthy?
 
-As habits are such a big part of health, here I can make great use of any system. 
+As habits are such a big part of health, here I can make great use of any system.
 
 Here are the habits I marked down with desired frequencies:
 
@@ -55,4 +55,4 @@ So I thought, well, what things always need to be in order and what would be the
 
 ![](/content/images/0b9972fd-fc32-4200-95e3-04bb49459860.png)
 
-So I ordered gel nails equipment because I know that it lasts for a week and created a schedule based on these notes. 
+So I ordered gel nails equipment because I know that it lasts for a week and created a schedule based on these notes.
