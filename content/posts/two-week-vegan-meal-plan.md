@@ -7,102 +7,79 @@ author: Adel Müürsepp
 ---
 ### Week 1 shopping list
 
-Here will be everything from Selver (interesting stuff)
-
 ### Monday 1
 
 Breakfast: Porridge with vegan protein
 
 Late morning snack: Tofu avocado toast
 
-Lunch: Quinoa tofu broccoli spinach
+Lunch: Sandwich from a vegan cafe
 
 Dinner: Scnitsel asparagus broccoli
 
 ### Tuesday 1
 
-Breakfast:
-
-Salad  
-Bell pepper tofu bolognese
-
-Breakfast:
+Breakfast: Porridge with vegan protein
 
 Late morning snack:
 
-Lunch:
+Lunch: Sandwich from a vegan cafe
 
-Dinner:
+Dinner: Bell pepper tofu bolognese
 
 ### Wednesday 1
 
-Carrots  
-Kale tofu bolognese eggplant  
-Green beans with soy meat balls strawberry chia smoothie
+Carrots
 
-Breakfast:
+Breakfast: Porridge with vegan protein
 
 Late morning snack:
 
-Lunch:
+Lunch: Sandwich from a vegan cafe
 
-Dinner:
+Dinner: Kale tofu bolognese eggplant
 
 ### Thursday 1
 
-Bell peppers  
-Kale tofu arrabiata brown beans  
-Pea pasta with soy meat balls tofu arrabiata, kale
-
-Breakfast:
+Breakfast: Porridge with vegan protein
 
 Late morning snack:
 
-Lunch:
+Lunch: Sandwich from a vegan cafe
 
-Dinner:
+Dinner: Pea pasta with soy meatballs tofu arrabiata, kale
 
 ### Friday 1
 
-Bell pepper  
-Soy pasta cauliflower bolognese  
-Zucchini tofu bolognese
+Bell pepper
 
-Breakfast:
+Breakfast: Porridge with vegan protein
 
 Late morning snack:
 
-Lunch:
+Lunch: Sandwich from a vegan cafe
 
-Dinner:
+Dinner: Soy pasta cauliflower bolognese
 
 ### Saturday 1
 
-Salad  
-Pak choi edamame sweet potato  
-Eggplant tofu bolognese
+Breakfast: Porridge with vegan protein
 
-Breakfast:
+Late morning snack: Salad
 
-Late morning snack:
+Lunch: Pak choi edamame sweet potato
 
-Lunch:
-
-Dinner:
+Dinner: Zucchini tofu bolognese
 
 ### Sunday 1
 
-Cabbage  
-Broccoli schnitsel spinach  
-Lentil pasta soy meatballs tomato sauce
+Breakfast: Porridge with vegan protein
 
-Breakfast:
+Late morning snack: Cabbage
 
-Late morning snack:
+Lunch: Broccoli schnitzel spinach
 
-Lunch:
-
-Dinner:
+Dinner: Lentil pasta soy meatballs tomato sauce
 
 ### Week 2 shopping list
 
@@ -120,9 +97,9 @@ Breakfast: Sweet potato with silky tofu
 
 Late morning snack
 
-Lunch
+Lunch: Sandwich from a vegan cafe
 
-Dinner
+Dinner: Eggplant tofu bolognese
 
 ### Tuesday 2
 
@@ -130,9 +107,9 @@ Breakfast: Sweet potato with silky tofu
 
 Late morning snack:
 
-Lunch:
+Lunch: Sandwich from a vegan cafe
 
-Dinner:
+Dinner: Brussel sprouts with soy meatballs
 
 ### Wednesday 2
 
@@ -140,9 +117,9 @@ Breakfast: Sweet potato with silky tofu
 
 Late morning snack:
 
-Lunch:
+Lunch: Sandwich from a vegan cafe
 
-Dinner:
+Dinner: Quinoa tofu with sauteed spinach and broccoli
 
 ### Thursday 2
 
@@ -150,7 +127,7 @@ Breakfast: Porridge with vegan protein
 
 Late morning snack:
 
-Lunch:
+Lunch: Sandwich from a vegan cafe
 
 Dinner:
 
@@ -160,7 +137,7 @@ Breakfast: Porridge with vegan protein
 
 Late morning snack:
 
-Lunch:
+Lunch: Sandwich from a vegan cafe
 
 Dinner:
 
@@ -170,9 +147,9 @@ Breakfast: Porridge with vegan protein
 
 Late morning snack:
 
-Lunch:
+Lunch: Sandwich from a vegan cafe
 
-Dinner:
+Dinner: Green beans with soy meat balls strawberry chia smoothie
 
 ### Sunday 2
 
@@ -180,6 +157,6 @@ Breakfast: Porridge with vegan protein
 
 Late morning snack:
 
-Lunch:
+Lunch: Sandwich from a vegan cafe
 
 Dinner:
