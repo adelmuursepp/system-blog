@@ -13,4 +13,10 @@ This is why you should be extra careful to sleep every day for 9 hours. No matte
 
 #### In need for spontaneity
 
-Some people claim they can't stand routine in their lives. 
+Some people claim they can't stand routine in their lives. I used to be such a person for pretty much my whole life. However, this means two things for these people:
+
+* **They actually already have a routine, it is just horrible and unsustainable**
+
+* **They are constantly planning and thinking about things they need to do**
+
+* **It is very much harder for them to keep a healthy lifestyle**
