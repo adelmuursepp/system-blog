@@ -21,11 +21,10 @@ Dinner: Scnitsel asparagus broccoli
 
 ### Tuesday 1
 
-Breakfast: 
+Breakfast:
 
 Salad  
-Bell pepper tofu bolognese  
-Bolognese lentils
+Bell pepper tofu bolognese
 
 Breakfast:
 
@@ -177,7 +176,7 @@ Dinner:
 
 ### Sunday 2
 
-Breakfast: Porridge with vegan protein 
+Breakfast: Porridge with vegan protein
 
 Late morning snack:
 
