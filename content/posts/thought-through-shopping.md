@@ -27,7 +27,7 @@ So I tried to buy everything as much as possible online, but still, there are so
 
 Weekly food carts from my meal plan. Two different carts named Week 1 and Week 2 on the online grocery store.
 
-**Sunday 1:** 
+**Sunday 1:**
 
 Going to the first grocery store that has some necessary things not available on the online store.
 
@@ -63,17 +63,17 @@ Going to the second grocery store that has all the other things I need.
 
 **Different colour notebooks for each subject:**
 
-* Estonian language
-* Literature
-* English
+* Estonian language – Light red
+* Literature – Turquoise
+* English – Dark green
 * Russian
-* Maths
-* Biology
-* Physics
-* History
+* Maths – Dark blue
+* Biology – Light green
+* Physics – Pink
+* History – Light orange
 * Social studies
 * Family education
-* Art
+* Art – Lavender
 * Physical education
 
 **Pens**
