@@ -75,6 +75,7 @@ Going to the second grocery store that has all the other things I need.
 * Family education
 * Art – Lavender
 * Physical education
+* Random notebook for everything else – Yellow
 
 **Pens**
 
