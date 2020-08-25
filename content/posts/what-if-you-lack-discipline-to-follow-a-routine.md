@@ -1,7 +1,7 @@
 ---
 date: 2020-08-25T12:26:19Z
 hero_image: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
-title: What if you lack discipline to follow a routine?
+title: What if you lack motivation to follow a routine?
 author: Adel Müürsepp
 
 ---
