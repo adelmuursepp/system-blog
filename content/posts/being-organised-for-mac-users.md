@@ -1,10 +1,17 @@
 ---
 date: 2020-08-24T14:11:05Z
 hero_image: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
-title: Being organised for Mac users
+title: Being organised for iOS and MacOS users
 author: Adel Müürsepp
 
 ---
+### The beauty of using Apple devices
+
+* AirDrop very fast
+* Syncs all your photos through iCloud
+* Copy and paste through devices 
+* Absolutely every document, photo and password are available on any device
+* Share Mac screen to iPad when you want to use Apple Pencil to draw something
 
 * **Calendar and reminders**
 * **Emails**
@@ -37,3 +44,21 @@ H&M for staple things
 * **Shopping groceries, hygiene products and household products**
 
 Rimi online store
+
+* **Keeping all my documents together (Microsoft programs)**
+
+Onedrive
+
+* **Keeping all Adobe documents on every device**
+
+Adobe Cloud
+
+* **Keeping all my photos on every device**
+
+iCloud syncs all photos between all devices
+
+* **Writing post-its to myself**
+
+Google Keep
+
+* **Writing lecture notes**
